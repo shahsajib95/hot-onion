@@ -1,0 +1,43 @@
+.banner{
+    background-image: url(../../pic/bannerbackground.png);
+    background-position: center;
+    background-size: 110%;
+    height: 500px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-content{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+input[type=text], select {
+    width: 50%;
+    position: relative;
+    padding: 11px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+  }
+
+input[type=submit]{
+    width: 20%;
+    position: absolute;
+    padding: 12px 20px;
+    border: none;
+    background-color:#F91944 ;
+    color: white;
+    border-radius: 50px;
+    top: 64px;
+    left: 70%;
+  }
+
+.banner-content h1{
+    font-weight: 800;
+}

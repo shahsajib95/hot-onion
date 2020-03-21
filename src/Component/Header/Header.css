@@ -1,0 +1,29 @@
+.top{
+    padding: 1% 5%;
+    font-family: 'Poppins', sans-serif;
+}
+.logo img{
+    height: 50px;
+}
+.sign-in{
+    margin-left: 35px;
+    padding: 5px 20px;
+    background: none;
+    border: none;
+    border-radius: 50px;
+}
+.sign-in:hover{
+    background-color: #F91944;
+    color: white;
+}
+.sign-up{
+    padding: 5px 20px;
+    background: none;
+    border: none;
+    border-radius: 50px;
+    background-color: #F91944;
+    color: white;
+}
+.banner{
+    background-image: url(../../pic/bannerbackground.png);
+}

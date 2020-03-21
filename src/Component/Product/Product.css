@@ -1,0 +1,15 @@
+.product{
+    padding: 1% 5%;
+    font-family: 'Poppins', sans-serif;
+}
+.product a{
+    padding: 0 50px; ;
+    color: black;
+    margin-left: 5px
+}
+
+.product a:hover{
+    padding: 0 50px; ;
+    color: red;
+    margin-left: 5px
+}

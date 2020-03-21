@@ -1,0 +1,10 @@
+.error{
+    background-color: #EAEADC;
+    color: black;
+    height: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.error{
+    padding: 50px;
+}

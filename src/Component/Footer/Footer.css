@@ -1,0 +1,22 @@
+.footer{
+    background-color: black;
+    height: 300px;
+    padding: 3% 5%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer-content img{
+    height: 50px;
+}
+
+.footer-content a{
+    color: white;
+    display: block ;
+}
+.links{
+    margin-top: 80px;
+}
+.links a{
+    margin-left: 10%;
+    color: white;
+}
